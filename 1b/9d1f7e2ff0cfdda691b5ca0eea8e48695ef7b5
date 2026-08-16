@@ -1,0 +1,47 @@
+.gitignore
+  s_5a329391f47573::t_5646eb956816ba 1-41
+README.md
+  s_5a329391f47573::t_540298fa302ba3 1-36
+eslint.config.mjs
+  s_5a329391f47573::t_74e38996c64521 1-18
+next.config.ts
+  s_5a329391f47573::t_be4675bc990b58 1-7
+package.json
+  s_5a329391f47573::t_7fd70877f87693 1-26
+postcss.config.mjs
+  s_5a329391f47573::t_ac8c9b247a20c5 1-7
+public/file.svg
+  s_5a329391f47573::t_b4caaa4e16a299 1
+public/globe.svg
+  s_5a329391f47573::t_7bf2d45a749eff 1
+public/next.svg
+  s_5a329391f47573::t_918334528aff0b 1
+public/vercel.svg
+  s_5a329391f47573::t_b31ab7c7fcfd83 1
+public/window.svg
+  s_5a329391f47573::t_13734f02442909 1
+src/app/globals.css
+  s_5a329391f47573::t_e0fcacb35f6a70 1-26
+src/app/layout.tsx
+  s_5a329391f47573::t_3e1945631cada0 1-29
+src/app/page.tsx
+  s_5a329391f47573::t_c5f56ee1944e06 1-69
+tsconfig.json
+  s_5a329391f47573::t_17ef974da50ff1 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1b9d1f7e2ff0cfdda691b5ca0eea8e48695ef7b5",
+  "prompts": {},
+  "sessions": {
+    "s_5a329391f47573": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6b6b698e-c244-42ea-aded-39f3bd2df8fa",
+        "model": "default"
+      },
+      "human_author": "divyansh.chaudhary <divyansh.chaudhary@telekom-digital.com>"
+    }
+  }
+}
