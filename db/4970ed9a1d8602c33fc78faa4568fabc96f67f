@@ -1,0 +1,85 @@
+src/components/skills.tsx
+  s_5a329391f47573::t_f3ac1f8ecc00f0 1-26
+src/lib/content.ts
+  s_5a329391f47573::t_d44878e96df6a1 1-8,10-26,30-38,40-47,62-66,68-73,75-80,82-94,96-97,100-108,110-136
+  s_5a329391f47573::t_549b9fd309b0d7 27,49-50,52-57
+  s_5a329391f47573::t_0e8509558c88f3 28-29,39,48,51,59,61,67,74
+  s_5a329391f47573::t_43369634faacf1 58,60
+  s_5a329391f47573::t_70fa10017cd830 95,109
+  s_5a329391f47573::t_d3bc802aa3aca9 81
+  s_5a329391f47573::t_50ac6b936d53cc 98-99
+  s_5a329391f47573::t_fdbd899d8b9f71 9
+src/components/contact.tsx
+  s_5a329391f47573::t_83dc2cc4d1ac90 1-11,13-30,33-37
+  s_5a329391f47573::t_d3bb63f779e879 31-32
+  s_5a329391f47573::t_f51a82247f74a2 12
+src/components/projects.tsx
+  s_5a329391f47573::t_84dc10df943b1f 1,31-33
+  s_5a329391f47573::t_7adf61411e87b3 2-12,14-30,34-39
+  s_5a329391f47573::t_5af85ac561e681 13
+src/components/experience-years.tsx
+  s_5a329391f47573::t_3e1b6a588d4442 1-2,4-9,11,13
+  s_5a329391f47573::t_94e7b51600ab3a 10,12
+  s_5a329391f47573::t_cd6b533142e0d0 3
+src/app/apple-icon.tsx
+  s_5a329391f47573::t_5b01ba1ab43695 1-30
+src/components/experience.tsx
+  s_5a329391f47573::t_19a259c20a051a 2-28,32-40
+  s_5a329391f47573::t_d0b22ef7ec17c2 1,29-31
+src/app/globals.css
+  s_5a329391f47573::t_6ad52e1e9e88cd 208-218
+  s_5a329391f47573::t_930236a493a4e1 388-393
+  s_5a329391f47573::t_306a58cdcdf85b 301-305
+  s_5a329391f47573::t_2cc35300ef0334 157
+  s_5a329391f47573::t_f95f07e329d975 70-73,82-83
+  s_5a329391f47573::t_a5b3ab158b60bd 4-27,31-33,36-41,45-69,74-81,84-156,158-207,219-300,306-387,394-585
+src/components/rich-text.tsx
+  s_5a329391f47573::t_87db27aa7e3ac3 1-13
+package.json
+  s_5a329391f47573::t_c051e81bc8d76e 2
+  s_5a329391f47573::t_77676d46e9e7b1 13
+src/lib/experience.ts
+  s_5a329391f47573::t_ab7fd3a7b0b8d8 1-20
+src/components/hero.tsx
+  s_5a329391f47573::t_c9a7551676e374 15-18
+  s_5a329391f47573::t_0abed602beed03 1,24
+  s_5a329391f47573::t_05e4a67bc079b9 2-14,19-23,25-32,34-36,38-61
+  s_5a329391f47573::t_fb0b26da38c5af 33,37
+src/app/layout.tsx
+  s_5a329391f47573::t_388622e7c51971 2-3,7-8,10,13-14,16,19-24,28,30-31,33-34,41-42,44-46
+  s_5a329391f47573::t_a50ddaf527d526 4,25-26,29,32
+src/app/icon.tsx
+  s_5a329391f47573::t_2f094a2428fde4 1-30
+src/components/theme-toggle.tsx
+  s_5a329391f47573::t_31d98410dbaca1 23-44
+  s_5a329391f47573::t_62f9b25658947d 1-22,45-47
+.vercel-deploy.json
+  s_5a329391f47573::t_2b0c92a38386a7 1
+src/components/education.tsx
+  s_5a329391f47573::t_9714e46cd9dbcb 1-22
+src/components/footer.tsx
+  s_5a329391f47573::t_600d6960ff3d5d 1-12
+src/app/page.tsx
+  s_5a329391f47573::t_6bc0d83fb57c35 1-7,12,16-22,24
+  s_5a329391f47573::t_25d36b7157415d 8,13-15
+src/components/theme-provider.tsx
+  s_5a329391f47573::t_5eb6a3aef9d2c6 1-11
+package-lock.json
+  s_5a329391f47573::t_12c6ec9ff49263 12,5213-5222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "db4970ed9a1d8602c33fc78faa4568fabc96f67f",
+  "prompts": {},
+  "sessions": {
+    "s_5a329391f47573": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6b6b698e-c244-42ea-aded-39f3bd2df8fa",
+        "model": "default"
+      },
+      "human_author": "divyansh.chaudhary <divyansh.chaudhary@telekom-digital.com>"
+    }
+  }
+}
