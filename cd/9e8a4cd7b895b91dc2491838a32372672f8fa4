@@ -1,0 +1,19 @@
+.vercel-deploy-working.json
+  s_4ac6a2f64f036d::t_fa24d8dd11eee7 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "cd9e8a4cd7b895b91dc2491838a32372672f8fa4",
+  "prompts": {},
+  "sessions": {
+    "s_4ac6a2f64f036d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b07487f0-d861-4ab7-8c17-d63442a93af3",
+        "model": "default"
+      },
+      "human_author": "divyansh.chaudhary <divyansh.chaudhary@telekom-digital.com>"
+    }
+  }
+}
